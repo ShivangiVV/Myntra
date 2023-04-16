@@ -1,0 +1,42 @@
+.flex{
+    display:flex ;
+}
+
+.container{
+    padding: 0 10vw;
+    margin: auto;
+    
+}
+
+.justify-center{
+    justify-content:center ;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.upper-case{
+    text-transform: uppercase;
+}
+.semibold{
+    font-weight: 600;
+    
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}       
+
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.padding-left{
+    padding-left: 35px;
+}
